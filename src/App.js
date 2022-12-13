@@ -1,7 +1,7 @@
 import './scss/styles.scss';
 
 function App() {
-  return <div className='App'>App</div>;
+  return <main className='App'>App</main>;
 }
 
 export default App;
